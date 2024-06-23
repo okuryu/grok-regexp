@@ -1,0 +1,20 @@
+{
+  "name": "@okuryu/grok-regexp",
+  "version": "1.0.0-alpha.0",
+  "description": "Grok patterns with native JavaScript RegExp",
+  "license": "MIT",
+  "author": "Ryuichi Okumura <okuryu@okuryu.com>",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test --import=tsx test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8",
+    "tsx": "^4.15.7",
+    "typescript": "5.5.x"
+  }
+}
