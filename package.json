@@ -1,6 +1,6 @@
 {
   "name": "@okuryu/grok-regexp",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Grok patterns with native JavaScript RegExp",
   "license": "MIT",
   "author": "Ryuichi Okumura <okuryu@okuryu.com>",
